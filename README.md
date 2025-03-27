@@ -45,3 +45,4 @@
 <img src="https://raw.githubusercontent.com/TamoshreeDey/TamoshreeDey/output/snake.svg" alt="Snake animation" />
 
 ###
+![GitHub Streak](https://streak-stats.demolab.com?user=TamoshreeDey&theme=dark)
