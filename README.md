@@ -8,7 +8,7 @@ I am a passionate Computer Science Engineer from India. I am mostly interested i
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [deytamoshree23@gmail.com](mailto:deytamoshree23@gmail.com)
-* 🚀  I'm currently working on [Spam Email Classification](http://github.com/TamoshreeDey/SpamEmailClassificationMachineLearningModel)
+* 🚀  I'm currently working on [PizzaApp](https://github.com/Nilanjan-Mondal/PizzaApp/tree/main/Frontend).
 * 🧠  I'm learning Machine Learning Algorithms, Deep Learning Algorithms
 * 🤝  I'm open to collaborating on AIML Projects, Front End Projects
 * ⚡  Python might turn out to be my spirit animal you see! 😏
