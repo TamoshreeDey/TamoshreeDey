@@ -7,7 +7,7 @@ Computer Science Engineer
 I am a passionate Computer Science Engineer from India. I am mostly interested in Artificial Intelligence and Machine Learning.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [deytamoshree23@gmail.com](mailto:deytamoshree23@gmail.com)
+* ✉️  You can contact me at [tamoshree3000@gmail.com](mailto:deytamoshree23@gmail.com)
 * 🚀  I'm currently working on [PizzaApp](https://github.com/Nilanjan-Mondal/PizzaApp/tree/main/Frontend).
 * 🧠  I'm learning Machine Learning Algorithms, Deep Learning Algorithms
 * 🤝  I'm open to collaborating on AIML Projects, Front End Projects
